@@ -16,10 +16,9 @@ form {
     margin: auto;
 }
 
-/* .forgot-password{
+.forgot-password{
     text-align: right;
-    width: 100px;
-} */
+ }
 
 .google-login img {
     height: 20px;
